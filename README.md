@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/GerrieDevOps/PipeLines/_apis/build/status/GerrieDevOps.PipeLines?branchName=master)](https://dev.azure.com/GerrieDevOps/PipeLines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
